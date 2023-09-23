@@ -15,12 +15,10 @@ The idea that motivated me to take this problem statement is the present percent
 
 Dataset:
 
-There are 30 features that was extracted to describe characteristics of cell nuclei present in the scanned images. The dataset consists of 569 patients ,212 have an outcome of malignancy and 357 are Benign. The classes in the dataset are separated into 2 or 4 groups, with 2 corresponding to the benign case and 4 corresponding to the malignant case![image](https://github.com/swarnachandran/Breast_cancer_prediction/assets/74671975/5d586f7d-f3e1-45da-b1c8-b6678afed8e8)
+There are 30 features that was extracted to describe characteristics of cell nuclei present in the scanned images. The dataset consists of 569 patients ,212 have an outcome of malignancy and 357 are Benign. The classes in the dataset are separated into 2 or 4 groups, with 2 corresponding to the benign case and 4 corresponding to the malignant case![image]
 
 * Source of dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-![image](https://github.com/swarnachandran/Breast_cancer_prediction/assets/74671975/59d293eb-d1b1-46a1-8ca5-b6b777a849e8)
 
 Conclusion:
 
 I performed logistic regression, decision tree, random forest, MLP classifier and deep neural network on prediction of breast cancer. Among the 5 models, logistic regression model performs the best with the highest score of 0.98901. This models predicts the best value of the target variable.
-![image](https://github.com/swarnachandran/Breast_cancer_prediction/assets/74671975/d90d2f5d-d59d-4fb4-aa35-e914e4a5efb6)
